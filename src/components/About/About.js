@@ -135,7 +135,7 @@ const About = () => {
 
 
             <Box sx={{ position: 'relative', display: 'inline-flex' }}>
-              <CircularProgress variant='determinate' value={80} size={130} sx={{ color: '#5a019e', backgroundColor: '#252525', borderRadius: '50%' }} />
+              <CircularProgress variant='determinate' value={80} size={130} sx={{ color: '#008080', backgroundColor: '#252525', borderRadius: '50%' }} />
               <Box
                 sx={{
                   top: 0,
@@ -157,7 +157,7 @@ const About = () => {
 
 
             <Box sx={{ position: 'relative', display: 'inline-flex' }}>
-              <CircularProgress variant='determinate' value={75} size={130} sx={{ color: '#5a019e', backgroundColor: '#252525', borderRadius: '50%' }} />
+              <CircularProgress variant='determinate' value={75} size={130} sx={{ color: '#008080', backgroundColor: '#252525', borderRadius: '50%' }} />
               <Box
                 sx={{
                   top: 0,
@@ -179,7 +179,7 @@ const About = () => {
 
 
             <Box sx={{ position: 'relative', display: 'inline-flex' }}>
-              <CircularProgress variant='determinate' value={70} size={130} sx={{ color: '#5a019e', backgroundColor: '#252525', borderRadius: '50%' }} />
+              <CircularProgress variant='determinate' value={70} size={130} sx={{ color: '#008080', backgroundColor: '#252525', borderRadius: '50%' }} />
               <Box
                 sx={{
                   top: 0,
@@ -201,7 +201,7 @@ const About = () => {
 
 
             <Box sx={{ position: 'relative', display: 'inline-flex' }}>
-              <CircularProgress className={classes['MuiCircularProgress-indeterminate']} variant='determinate' value={40} size={130} sx={{ color: '#5a019e', backgroundColor: '#252525', borderRadius: '50%' }} />
+              <CircularProgress className={classes['MuiCircularProgress-indeterminate']} variant='determinate' value={40} size={130} sx={{ color: '#008080', backgroundColor: '#252525', borderRadius: '50%' }} />
               <Box
                 sx={{
                   top: 0,
@@ -223,7 +223,7 @@ const About = () => {
 
 
             <Box sx={{ position: 'relative', display: 'inline-flex' }}>
-              <CircularProgress variant='determinate' value={30} size={130} sx={{ color: '#5a019e', backgroundColor: '#252525', borderRadius: '50%' }} />
+              <CircularProgress variant='determinate' value={30} size={130} sx={{ color: '#008080', backgroundColor: '#252525', borderRadius: '50%' }} />
               <Box
                 sx={{
                   top: 0,
@@ -245,7 +245,7 @@ const About = () => {
 
 
             <Box sx={{ position: 'relative', display: 'inline-flex' }}>
-              <CircularProgress variant='determinate' value={70} size={130} sx={{ color: '#5a019e', backgroundColor: '#252525', borderRadius: '50%' }} />
+              <CircularProgress variant='determinate' value={70} size={130} sx={{ color: '#008080', backgroundColor: '#252525', borderRadius: '50%' }} />
               <Box
                 sx={{
                   top: 0,
@@ -267,7 +267,7 @@ const About = () => {
 
 
             <Box sx={{ position: 'relative', display: 'inline-flex' }}>
-              <CircularProgress variant='determinate' value={80} size={130} sx={{ color: '#5a019e', backgroundColor: '#252525', borderRadius: '50%' }} />
+              <CircularProgress variant='determinate' value={80} size={130} sx={{ color: '#008080', backgroundColor: '#252525', borderRadius: '50%' }} />
               <Box
                 sx={{
                   top: 0,
@@ -289,7 +289,7 @@ const About = () => {
 
 
             <Box sx={{ position: 'relative', display: 'inline-flex' }}>
-              <CircularProgress variant='determinate' value={60} size={130} sx={{ color: '#5a019e', backgroundColor: '#252525', borderRadius: '50%' }} />
+              <CircularProgress variant='determinate' value={60} size={130} sx={{ color: '#008080', backgroundColor: '#252525', borderRadius: '50%' }} />
               <Box
                 sx={{
                   top: 0,

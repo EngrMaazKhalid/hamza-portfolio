@@ -28,7 +28,7 @@ const Contact = ()=>{
         onSubmit: (values, action) => {
             axios({
                 method: "POST",
-                url: "https://formspree.io/f/mayzkybk",
+                url: "https://formspree.io/f/xjvdneoq",
                 data: values
               }).then(response => {
             console.log(values)
