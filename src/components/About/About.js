@@ -8,7 +8,7 @@ import { motion } from 'framer-motion'
 // import { CircularProgress } from '@mui/material'
 import CircularProgress from '@mui/material/CircularProgress';
 import { Box } from '@mui/system';
-import School from '@mui/icons-material/School';
+// import School from '@mui/icons-material/School';
 const About = () => {
 
   return (<motion.div id='about'className={classes['about']} initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0, transition: { duration: 0.2 } }}>

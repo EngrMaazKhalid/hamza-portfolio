@@ -1,8 +1,8 @@
-import { getAccordionDetailsUtilityClass, Modal, Typography } from '@mui/material';
+// import { getAccordionDetailsUtilityClass, Modal, Typography } from '@mui/material';
 import React, { useState } from 'react'
 import classes from './portfolio.module.css'
 import {motion} from 'framer-motion'
-import { Box } from '@mui/system';
+// import { Box } from '@mui/system';
 import ModalArea from './ModalArea';
 const Portfolio = ()=>{
     const data =[
