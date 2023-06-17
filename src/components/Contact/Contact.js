@@ -87,8 +87,8 @@ const Contact = ()=>{
             </div>
            
             <ul className={classes['social-ul']}>
-                <li className={classes['social-li']}><FacebookRoundedIcon className={classes['social-icon']} sx={{fontSize:'4rem', transition:'all.2s'}}/></li>
-                <li className={classes['social-li']}><TwitterIcon className={classes['social-icon']} sx={{fontSize:'4rem', transition:'all.2s'}}/></li>
+                {/* <li className={classes['social-li']}><FacebookRoundedIcon className={classes['social-icon']} sx={{fontSize:'4rem', transition:'all.2s'}}/></li>
+                <li className={classes['social-li']}><TwitterIcon className={classes['social-icon']} sx={{fontSize:'4rem', transition:'all.2s'}}/></li> */}
                 <li className={classes['social-li']}><a href=' https://www.instagram.com/hamzashaukat111/'><InstagramIcon className={classes['social-iconIns']} sx={{fontSize:'4rem', transition:'all.2s'}}/></a></li>
                 <li className={classes['social-li']}><a href='https://github.com/hamzashaukat111'><GithubIcon className={classes['social-icons']} sx={{fontSize:'4rem', transition:'all.2s'}}/></a></li>
                 <li className={classes['social-li']}><a href=' https://www.linkedin.com/in/hamza-shaukat-1b3783210/'> <LinkedInIcon className={classes['social-icon']} sx={{fontSize:'4rem', transition:'all.2s'}}/></a></li>

@@ -23,7 +23,7 @@ const Portfolio = ()=>{
         • Implemented the functionality of uploading and presenting the probability of the accuracy of the presence
         of a watermark
         • Ensured model accuracy by training on an approximate extensive dataset of around 10,000 images of
-        both watermark and non-watermark images
+        both watermark and non-watermark images. try it here: "https://hamzashaukat111.github.io/Watermark-Detection-Project/"
         '`,
         link:'https://github.com/hamzashaukat111/Watermark-Detection-Project',},
         { id: '03',
@@ -33,7 +33,7 @@ const Portfolio = ()=>{
         src:`'Developed a fully functional e-commerce website using Node.js, HTML, CSS, Bootstrap, and JavaScript.
         Integrated an Oracle database for seamless CRUD operations.
         Enabled customers to create accounts, browse and purchase products, manage their cart, and proceed to checkout and also added an Employee Database.
-        Established a live connection to an on-premises Oracle database for real-time data management.
+        Established a live connection to an on-premises Oracle database for real-time data management .
         '`,link: 'https://github.com/hamzashaukat111/Outfitters-website',},
         // { id: '04',
         // name:"Trillo Project",
